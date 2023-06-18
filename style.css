@@ -1,0 +1,54 @@
+@import url('https://fonts.googleapis.com/css2?family=Forum&family=Inter:wght@200;300;400;600&family=Nunito+Sans:wght@200;400&display=swap');
+
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+#logo {
+    font-family: "Inter";
+    font-weight: 600;
+    background-color: black;
+    color: white;
+    width: 100%;
+    height: 70px;
+    font-size: 36px;
+
+
+}
+
+#movie {
+    padding-top: 15px;
+    padding-left: 15px;
+}
+
+
+#middle {
+    font-family: "Inter";
+    font-weight: 400;
+    background-color: #292929;
+    color: white;
+    width: 100%;
+    height: 200px;
+    font-size: 36px;
+    display: flex;
+    justify-content: center;
+    padding-top: 100px;
+
+
+}
+#search-movie{
+    height: 36px;
+    width: 300px;
+    font-size: 28px;
+    margin-left: 20px;
+
+
+
+}
+
+#end {
+    background-color: black;
+    width: 100%;
+    height: 100px;
+}
