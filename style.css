@@ -52,3 +52,25 @@
     width: 100%;
     height: 100px;
 }
+#movie_dropdown {
+    height: 400px;
+    width: 300px;
+    background-color: #292929;
+   margin-left: 20px;
+   display:none;
+   overflow: scroll;
+}
+#listofmovies {
+    list-style-type: none;
+    font-size: 14px;
+    /* display:flex; */
+}
+#listofmovies img {
+    width: 50px;
+    height: 80px;
+
+}
+#listofmovies:hover{
+    background-color: black;
+
+}
